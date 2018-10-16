@@ -6,3 +6,5 @@
 
     1. HTML
     2. Javascript
+    
+<b>--> How to use:</b> 
