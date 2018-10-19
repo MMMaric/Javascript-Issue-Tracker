@@ -1,8 +1,8 @@
 # Javascript_issue_tracker
 
----> About : This project is for tracking different issues in some company.
+<b>---></b> About : This project is for tracking different issues in some company.
 
----> Technology used : 
+<b>---></b> Technology used : 
 
     1. HTML
     2. Javascript
