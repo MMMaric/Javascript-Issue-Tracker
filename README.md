@@ -6,6 +6,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 <b>---> About : </b>  This project is for tracking different issues in some company.
 
+### Prerequisites
+
 <b>---> Technology used :  </b> 
 
     1. HTML
